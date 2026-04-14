@@ -1,0 +1,33 @@
+Suspicious IP Investigation — 185.220.101.45
+
+What is this project?
+This project simulates a real investigation that a SOC Analyst would perform on a suspicious IP address. I came across IP 185.220.101.45 while researching threat activity online and decided to investigate it.
+
+Tools Used
+Before starting this project, I did some research to find out which tools SOC analysts commonly use to investigate suspicious IP addresses. I came across several options, but I decided to go with AbuseIPDB and VirusTotal because they were the most straightforward to understand at my current level of study.
+
+AbuseIPDBA community database where security professionals report malicious IPs. It gives a quick abuse score and history — one of the first tools analysts check when an IP looks suspicious.
+and
+VirusTotalChecks the IP against 90+ security vendors at the same time. Instead of trusting one source, you get a consensus from dozens of companies in seconds.
+
+ What I Found
+Using both tools I was able to put together a clear picture of what this IP was doing:
+
+AbuseIPDB returned a 96% abuse confidence score with over 6,500 reports from nearly 600 different sources going back to December 2020
+
+VirusTotal had 18 out of 94 security vendors flagging it as malicious, with active brute-force attacks confirmed as recently as 4 days before the investigation
+
+The IP is a Tor exit node  meaning it is used to hide the identity of whoever is behind the attacks, making it very hard to trace
+
+Attack types observed included: Brute-Force, SQL Injection, Web App Attacks, DDoS, and Port Scanning
+
+The IP was still actively reporting malicious activity as of April 2026
+
+About the Report Format
+
+For this project I put together an investigation report documenting all findings. The layout and format were built with the help of AI as a learning exercise.
+
+I do want to note that in a real SOC environment, every company has its own way of writing reports their own templates, formats, and internal standards i guess. The report I created here is meant to simulate that experience and practice the documentation side of the job, not to represent one universal standard.
+
+PUT THE REPORT HERE.
+
