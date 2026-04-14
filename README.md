@@ -1,2 +1,31 @@
 # Mycybersecurity-journey
+
 My journey learning cybersecurity (TryHackMe, labs, networking, SOC skills)
+
+📅 April 2026 — Starting my journey in cybersecurity
+
+## TryHackMe - Pre Security
+
+## What I Learned
+
+4/1/26 - Introduction to Cyber Security
+Network Fundamentals
+How The Web Works
+Http Detail
+How Websites Work
+4/10/2026 - first project (look project 1)
+Inside a computer System
+Computer Types
+Client-Server Basics
+Cloud Computing Fundamentals
+
+**Project 2 – Threat IP Investigation**  4/13/2026
+[View Project](https://github.com/LgzBr/Project-2---ip-investigation-)
+
+Operating Systems: Introduction
+
+
+## Notes
+
+## Progress
+- Currently working through Pre Security path
