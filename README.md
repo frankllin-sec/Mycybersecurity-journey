@@ -1,28 +1,21 @@
-# Mycybersecurity-journey
+### What I Learned
 
-My journey learning cybersecurity (TryHackMe, labs, networking, SOC skills)
+- 4/1/26 – Introduction to Cyber Security  
+- Network Fundamentals  
+- How The Web Works  
+- HTTP Detail  
+- How Websites Work  
+- 4/10/2026 – First Project  
+- Inside a Computer System  
+- Computer Types  
+- Client-Server Basics  
+- Cloud Computing Fundamentals  
 
-📅 April 2026 — Starting my journey in cybersecurity
+### Project
+- **Project 2 – Threat IP Investigation** (04/13/2026)  
+  🔗 [View Project](https://github.com/LgzBr/Project-2---ip-investigation-)
 
-## TryHackMe - Pre Security
-
-## What I Learned
-
-4/1/26 - Introduction to Cyber Security
-Network Fundamentals
-How The Web Works
-Http Detail
-How Websites Work
-4/10/2026 - first project (look project 1)
-Inside a computer System
-Computer Types
-Client-Server Basics
-Cloud Computing Fundamentals
-
-**Project 2 – Threat IP Investigation**  4/13/2026
-[View Project](https://github.com/LgzBr/Project-2---ip-investigation-)
-
-Operating Systems: Introduction
+  - Operating Systems: Introduction 
 
 
 ## Notes
