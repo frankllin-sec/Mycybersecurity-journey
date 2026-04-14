@@ -10,7 +10,9 @@
 - Inside a Computer System  
 - Computer Types  
 - Client-Server Basics  
-- Cloud Computing Fundamentals  
+- Cloud Computing Fundamentals
+- Project 04/13/2026 
+   Operating Systems: Introduction   
 
 ### Project
 - **Project 2 – Threat IP Investigation** (04/13/2026)  
