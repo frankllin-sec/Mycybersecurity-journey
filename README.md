@@ -11,14 +11,14 @@
 - Computer Types  
 - Client-Server Basics  
 - Cloud Computing Fundamentals
-- Project 04/13/2026 
-   Operating Systems: Introduction   
+- Project 04/13/2026
+- Operating Systems: Introduction  
+    
 
 ### Project
 - **Project 2 – Threat IP Investigation** (04/13/2026)  
   🔗 [View Project](https://github.com/LgzBr/Project-2---ip-investigation-)
 
-  - Operating Systems: Introduction 
 
 
 ## Notes
