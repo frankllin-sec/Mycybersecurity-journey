@@ -12,7 +12,8 @@
 - Client-Server Basics  
 - Cloud Computing Fundamentals
 - **Project 2 – Threat IP Investigation** 04/13/2026 (https://github.com/LgzBr/Project-2---ip-investigation-)
-- Operating Systems: Introduction  
+- Operating Systems: Introduction
+- Windowns Basic
     
 
 ### Project
