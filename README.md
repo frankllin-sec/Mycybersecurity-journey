@@ -15,6 +15,8 @@
 - Operating Systems: Introduction
 - Windowns Basic
 - Linux CLI Basics
+- Windows CLI Basics
+
     
 
 ### Project
