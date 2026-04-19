@@ -17,6 +17,7 @@
 - Linux CLI Basics
 - Windows CLI Basics
 - Operating System Security
+- Data Representation
 
     
 
