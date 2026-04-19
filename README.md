@@ -18,6 +18,7 @@
 - Windows CLI Basics
 - Operating System Security
 - Data Representation
+- Python: Simple Demo
 
     
 
