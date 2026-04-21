@@ -1,35 +1,54 @@
-### What I Learned
+# 🛡️ My Cybersecurity Journey
 
-### TryHackMe
-- 4/1/26 – Introduction to Cyber Security  
-- Network Fundamentals  
-- How The Web Works  
-- HTTP Detail  
-- How Websites Work  
-- 4/10/2026 – First Project  
-- Inside a Computer System  
-- Computer Types  
-- Client-Server Basics  
-- Cloud Computing Fundamentals
-- **Project 2 – Threat IP Investigation** 04/13/2026 (https://github.com/LgzBr/Project-2---ip-investigation-)
-- Operating Systems: Introduction
-- Windowns Basic
-- Linux CLI Basics
-- Windows CLI Basics
-- Operating System Security
-- Data Representation
-- Python: Simple Demo
-- 4-21-26 - Starting  - Intro to Splunk (eLearning) (https://github.com/LgzBr/Splunk-Journey)
+Documenting my path toward becoming a SOC Analyst.
 
-    
+## 📚 What I Learned
 
-### Project
-- **Project 2 – Threat IP Investigation** (04/13/2026)  
-  🔗 [View Project](https://github.com/LgzBr/Project-2---ip-investigation-)
+### 🔵 TryHackMe — Pre Security Path
 
+- **04/01/2026** – Introduction to Cyber Security
+  – Network Fundamentals
+  - How The Web Works
+  - HTTP in Detail
+  - How Websites Work
+  - Inside a Computer System
+  - Computer Types
+  - Client-Server Basics
+  - Cloud Computing Fundamentals
+  - Operating Systems
+  - Introduction to OS
+  - Windows Basics
+  - Linux CLI Basics
+  - Windows CLI Basics
+  - Operating System Security
+  – Data Representation
+  – Python: Simple Demo
+  - **04/21/2026** – Started Intro to Splunk (eLearning)
 
+---
 
-## Notes
+### 🟠 Splunk
+🔗 [View my Splunk Journey](https://github.com/LgzBr/Splunk-Journey)
 
-## Progress
-- Currently working through Pre Security path
+- **04/21/2026** – Started Intro to Splunk (eLearning)
+
+---
+
+## 📁 Projects
+
+| Project | Date | Link |
+|--------|------|------|
+| Threat IP Investigation | 04/13/2026 | [View Project](https://github.com/LgzBr/Project-2---ip-investigation-) |
+
+---
+
+## 📝 Notes
+*(em breve)*
+
+---
+
+## 📊 Progress
+
+- ✅ Pre Security Path — In Progress
+- ⬜ Splunk Core Certified User
+- ⬜ CompTIA Security+
