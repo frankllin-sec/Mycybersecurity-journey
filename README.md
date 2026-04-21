@@ -24,6 +24,7 @@ Documenting my path toward becoming a SOC Analyst.
   – Data Representation
   – Python: Simple Demo
   - **04/21/2026** – Started Intro to Splunk (eLearning)
+  - Java Script Simple Demo
 
 ---
 
