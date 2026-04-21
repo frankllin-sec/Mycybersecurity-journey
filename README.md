@@ -19,7 +19,7 @@
 - Operating System Security
 - Data Representation
 - Python: Simple Demo
-- Starting  - Intro to Splunk (eLearning) (https://education.splunk.com)
+- 4-21-26 - Starting  - Intro to Splunk (eLearning) (https://github.com/LgzBr/Splunk-Journey)
 
     
 
