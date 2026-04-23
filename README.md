@@ -27,6 +27,7 @@ Documenting my path toward becoming a SOC Analyst.
   - Java Script Simple Demo
   - Database SQL Basics
   - The CIA Triad
+  - Cryptography Concepts
 
 ---
 
