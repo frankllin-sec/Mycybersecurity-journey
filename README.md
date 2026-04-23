@@ -28,6 +28,7 @@ Documenting my path toward becoming a SOC Analyst.
   - Database SQL Basics
   - The CIA Triad
   - Cryptography Concepts
+  - Become a Hacker
 
 ---
 
