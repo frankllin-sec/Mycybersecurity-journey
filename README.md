@@ -8,7 +8,7 @@ Documenting my path toward becoming a SOC Analyst.
 
 
 <details>
-<summary>- **04/01/2026** –Introduction to Cyber Security</summary>
+<summary> **04/01/2026**  Introduction to Cyber Security</summary>
 
 - Network Fundamentals
 - How The Web Works
@@ -34,11 +34,11 @@ Documenting my path toward becoming a SOC Analyst.
 - Become a Hacker
 - [PROJECT] SOC Analyst Study Project — Phishing Alert Investigation
   [View Project](https://github.com/frankllin-sec/Soc-phishing-investigation)
-- Become a Hacker
 - Become a Defender
 - **04/24/2026** – Introduction to Cyber Security (Completed ✅)
 
 </details>
+
 
 ### 🟠 Splunk
 🔗 [View my Splunk Journey](https://github.com/LgzBr/Splunk-Journey)
