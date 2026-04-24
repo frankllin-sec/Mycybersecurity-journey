@@ -34,8 +34,6 @@ Documenting my path toward becoming a SOC Analyst.
   - Become a Defender
   - **04/24/2026** – Introduction to Cyber Security (Completed ✅)
 
-
-
 ---
 
 ### 🟠 Splunk
