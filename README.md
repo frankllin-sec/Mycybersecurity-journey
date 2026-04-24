@@ -5,9 +5,10 @@ Documenting my path toward becoming a SOC Analyst.
 ## 📚 What I Learned
 
 ### 🔵 TryHackMe — Pre Security Path
+- **04/01/2026** – <details>
+  <summary>Introduction to Cyber Security</summary>
 
-- **04/01/2026** – Introduction to Cyber Security
-  – Network Fundamentals
+  - Network Fundamentals
   - How The Web Works
   - HTTP in Detail
   - How Websites Work
@@ -21,18 +22,22 @@ Documenting my path toward becoming a SOC Analyst.
   - Linux CLI Basics
   - Windows CLI Basics
   - Operating System Security
-  – Data Representation
-  – Python: Simple Demo
-  - **04/21/2026** – Started Intro to Splunk (eLearning)
-  - Java Script Simple Demo
-  - Database SQL Basics
-  - The CIA Triad
-  - Cryptography Concepts
-  - Become a Hacker
-  - [PROJECT] SOC Analyst Study Project  Phishing Alert Investigation [View Project](https://github.com/frankllin-sec/Soc-phishing-investigation) |
-  - Become a Hacker
-  - Become a Defender
-  - **04/24/2026** – Introduction to Cyber Security (Completed ✅)
+  - Data Representation
+  - Python: Simple Demo
+
+  </details>
+
+- **04/21/2026** – Started Intro to Splunk (eLearning)
+- Java Script Simple Demo
+- Database SQL Basics
+- The CIA Triad
+- Cryptography Concepts
+- Become a Hacker
+- [PROJECT] SOC Analyst Study Project — Phishing Alert Investigation
+  [View Project](https://github.com/frankllin-sec/Soc-phishing-investigation)
+- Become a Hacker
+- Become a Defender
+- **04/24/2026** – Introduction to Cyber Security (Completed ✅)
 
 ---
 
