@@ -31,6 +31,7 @@ Documenting my path toward becoming a SOC Analyst.
   - Become a Hacker
   - [PROJECT] SOC Analyst Study Project  Phishing Alert Investigation [View Project](https://github.com/frankllin-sec/Soc-phishing-investigation) |
   - Become a Hacker
+  - Become a Defender
 
 
 ---
