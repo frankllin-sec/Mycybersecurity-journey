@@ -29,7 +29,9 @@ Documenting my path toward becoming a SOC Analyst.
   - The CIA Triad
   - Cryptography Concepts
   - Become a Hacker
-  - [PROJECT] SOC Analyst Study Project  Phishing Alert Investigation [View Project](https://github.com/frankllin-sec/Soc-phishing-investigation) | 
+  - [PROJECT] SOC Analyst Study Project  Phishing Alert Investigation [View Project](https://github.com/frankllin-sec/Soc-phishing-investigation) |
+  - Become a Hacker
+
 
 ---
 
