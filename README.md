@@ -6,9 +6,9 @@ Documenting my path toward becoming a SOC Analyst.
 
 ### 🔵 TryHackMe — Pre Security Path
 
-- **04/01/2026** –
+
 <details>
-<summary>Introduction to Cyber Security</summary>
+<summary>- **04/01/2026** –Introduction to Cyber Security</summary>
 
 - Network Fundamentals
 - How The Web Works
