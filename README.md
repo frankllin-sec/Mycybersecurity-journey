@@ -68,6 +68,7 @@ Documenting my path toward becoming a SOC Analyst.
 
 ## 📊 Progress
 
-- ✅ Pre Security Path 
+- ✅ Pre Security Path
+- ⬜ Cyber Security 101
 - ⬜ Splunk Core Certified User
 - ⬜ CompTIA Security+
