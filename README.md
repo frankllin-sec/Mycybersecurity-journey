@@ -4,7 +4,7 @@ Documenting my path toward becoming a SOC Analyst.
 
 ## 📚 What I Learned
 
-### 🔵 TryHackMe — Pre Security Path
+### 🔵 TryHackMe —
 
 
 <details>
@@ -38,7 +38,7 @@ Documenting my path toward becoming a SOC Analyst.
 </details>
 
 <details>
-<summary> **04/26/2026**  Cyber Security 101 TryHackMe</summary>
+<summary> **04/26/2026**  Cyber Security 101 </summary>
   - Search Skills
 
 </details>
