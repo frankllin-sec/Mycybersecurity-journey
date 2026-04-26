@@ -32,10 +32,14 @@ Documenting my path toward becoming a SOC Analyst.
 - The CIA Triad
 - Cryptography Concepts
 - Become a Hacker
-- [PROJECT] SOC Analyst Study Project — Phishing Alert Investigation
-  [View Project](https://github.com/frankllin-sec/Soc-phishing-investigation)
 - Become a Defender
 - **04/24/2026** – Introduction to Cyber Security (Completed ✅)
+
+</details>
+
+<details>
+<summary> **04/26/2026**  Cyber Security 101 TryHackMe</summary>
+  - Search Skills
 
 </details>
 
