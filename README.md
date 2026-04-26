@@ -53,7 +53,7 @@ Documenting my path toward becoming a SOC Analyst.
 
 ## 📁 Projects
 
-| Project | Date | Link |
+| Projects | Date | Link |
 |--------|------|------|
 | Threat IP Investigation | 04/13/2026 | [View Project](https://github.com/LgzBr/Project-2---ip-investigation-) |
 | SOC Analyst Study Project Phishing Alert Investigation | 04/23/2026 | [View Project](https://github.com/frankllin-sec/Soc-phishing-investigation) |
