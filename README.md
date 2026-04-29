@@ -39,9 +39,10 @@ Documenting my path toward becoming a SOC Analyst.
 
 <details>
 <summary> **04/26/2026**  Cyber Security 101 </summary>
+  
   - Search Skills
   - Linux Fundamentals Part 1/2/3
-  - 
+  - Windowns Fundamentals Part 1/2/3
   - 
   - 
   
