@@ -43,7 +43,7 @@ Documenting my path toward becoming a SOC Analyst.
   - Search Skills
   - Linux Fundamentals Part 1/2/3
   - Windowns Fundamentals Part 1/2/3
-  - 
+  - Active Directory Basics
   - 
   
   
