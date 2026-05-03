@@ -60,11 +60,11 @@ Documenting my path toward becoming a SOC Analyst.
 
 ## 📁 Projects
 
-| Projects | Date | Link |
-|--------|------|------|
-| Threat IP Investigation | 04/13/2026 | [View Project](https://github.com/LgzBr/Project-2---ip-investigation-) |
-| SOC Analyst Study Project Phishing Alert Investigation | 04/23/2026 | [View Project](https://github.com/frankllin-sec/Soc-phishing-investigation) |
-| Phishing Awareness Campaign for Employees| 04/26/2026 | [View Project](https://github.com/frankllin-sec/phishing-awareness-campaign) |
+<p align="center">
+  <a href="https://github.com/frankllin-sec/My-Projects/blob/main/README.md">
+    <img src="https://img.shields.io/badge/🗂️%20View%20My%20Projects-Click%20Here-7c3aed?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
