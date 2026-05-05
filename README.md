@@ -45,6 +45,7 @@ Documenting my path toward becoming a SOC Analyst.
   - Windowns Fundamentals Part 1/2/3
   - Active Directory Basics
   - Windows Command Line
+  - Windows PowerShell
   - 
   
   
