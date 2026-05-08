@@ -48,6 +48,7 @@
   - Windows PowerShell
   - Networking Concepts
   - Networking Essentials
+  - Networking Core Protocols
   - 
   
   
