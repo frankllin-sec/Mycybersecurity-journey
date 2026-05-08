@@ -47,6 +47,7 @@
   - Windows Command Line
   - Windows PowerShell
   - Networking Concepts
+  - Networking Essentials
   - 
   
   
