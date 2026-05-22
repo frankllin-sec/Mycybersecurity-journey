@@ -57,6 +57,7 @@
   - Moniker Link (CVE-2024-21413)
   - Metasploit: Introduction
   - Blue
+  - Web Application Basics
   
   
 
