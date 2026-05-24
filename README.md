@@ -58,6 +58,7 @@
   - Metasploit: Introduction
   - Blue
   - Web Application Basics
+  - JavaScript Essentials
   
   
 
