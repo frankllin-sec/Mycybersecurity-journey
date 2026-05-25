@@ -59,6 +59,8 @@
   - Blue
   - Web Application Basics
   - JavaScript Essentials
+  - SQL Fundamentals
+
   
   
 
