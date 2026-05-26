@@ -60,6 +60,7 @@
   - Web Application Basics
   - JavaScript Essentials
   - SQL Fundamentals
+  - Hydra
 
   
   
