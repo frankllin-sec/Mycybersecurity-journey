@@ -83,7 +83,9 @@
     <img src="https://img.shields.io/badge/🗂️%20View%20My%20Projects-Click%20Here-7c3aed?style=for-the-badge"/>
   </a>
 </p>
-
+<p align="center">
+  |🛡️ AEGIS Security Platform for SOC — | May 2026 | [View Project](https://frankllin-sec.github.io/aegis/)
+</p>
 ---
 
 ## 🛡️ Labs
