@@ -60,8 +60,9 @@
   - Web Application Basics
   - JavaScript Essentials
   - SQL Fundamentals
-  - Hydra
+  - Hydra - the basics
   - Gobuster: The Basics
+  - Shells Overview
 
   
   
