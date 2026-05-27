@@ -63,7 +63,7 @@
   - Hydra - the basics
   - Gobuster: The Basics
   - Shells Overview
-  - Soc analyst Fundaments
+  - SOC Fundamentals
 
 
   
