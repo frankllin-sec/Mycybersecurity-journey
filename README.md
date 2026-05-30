@@ -66,6 +66,7 @@
   - SOC Fundamentals
   - Digital Forensics Fundamentals
   - Incident Response
+  - Logs Fundamentals
 
 
   
