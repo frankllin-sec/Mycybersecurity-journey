@@ -67,6 +67,7 @@
   - Digital Forensics Fundamentals
   - Incident Response
   - Logs Fundamentals
+  - Introduction to SIEM
 
 
   
