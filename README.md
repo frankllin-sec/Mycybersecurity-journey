@@ -79,6 +79,15 @@
   - OWASP Top 10 2025: Insecure Data Handling
 
 
+
+</details>
+
+<details>
+<summary> **05/31/2026** SOC Level 1 </summary>
+ - Blue Team Introduction
+  - 
+
+
   
   
 
