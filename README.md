@@ -71,6 +71,9 @@
   - Firewall Fundamentals
   - IDS Fundamentals
   - Vulnerability Scanner Overview
+  - CyberChef: The Basics completed!
+  - CAPA: The Basics
+  - 
 
 
   
