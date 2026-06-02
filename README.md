@@ -80,6 +80,7 @@
   - CAPA: The Basics
   - REMnux: Getting Started
   - Security Principles
+- **06/02/2026** – Cyber Security 101 (Completed ✅)
 
 
 
