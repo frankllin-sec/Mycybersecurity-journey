@@ -79,7 +79,7 @@
   - OWASP Top 10 2025: Insecure Data Handling
   - CAPA: The Basics
   - REMnux: Getting Started
-  - 
+  - Security Principles
 
 
 
