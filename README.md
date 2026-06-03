@@ -91,6 +91,7 @@
   
   - Junior Security Analyst Intro
   - Blue Team Introduction
+  - SOC Role in Blue Team
   - Humans as Attack Vectors
   - Systems as Attack Vectors
 
