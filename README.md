@@ -92,7 +92,7 @@
   - Junior Security Analyst Intro
   - Blue Team Introduction
   - Humans as Attack Vectors
-  - 
+  - Systems as Attack Vectors
 
 </details>
 
