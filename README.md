@@ -88,8 +88,11 @@
 
 <details>
 <summary> **05/31/2026** SOC Level 1 </summary>
- - Blue Team Introduction
+  - Junior Security Analyst Intro
+  - Blue Team Introduction
   - 
+
+
 
 
   
