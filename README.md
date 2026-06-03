@@ -82,24 +82,17 @@
   - Security Principles
 - **06/02/2026** – Cyber Security 101 (Completed ✅)
 
-
-
 </details>
+
+
 
 <details>
 <summary> **05/31/2026** SOC Level 1 </summary>
+  
   - Junior Security Analyst Intro
   - Blue Team Introduction
   - Humans as Attack Vectors
   - 
-  - 
-  
-
-
-
-
-  
-  
 
 </details>
 
