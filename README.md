@@ -89,11 +89,7 @@
 <details>
 <summary> **05/31/2026** SOC Level 1 </summary>
   
-  - Junior Security Analyst Intro
-  - Blue Team Introduction
-  - SOC Role in Blue Team
-  - Humans as Attack Vectors
-  - Systems as Attack Vectors
+  - Blue Team Introduction - (Jr Sec analyst intro, Soc Role in Blue Team, Humans as Attack Vectors, Systems as Attack Vectors)
   - SOC L1 Alert Triage (intro, events and alerts, alert properties, alert prioritization, alert triage, conclusion)
 
 </details>
