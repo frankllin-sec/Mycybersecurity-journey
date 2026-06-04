@@ -91,6 +91,7 @@
   
   - Blue Team Introduction - (Jr Sec analyst intro, Soc Role in Blue Team, Humans as Attack Vectors, Systems as Attack Vectors)
   - SOC L1 Alert Triage (intro, events and alerts, alert properties, alert prioritization, alert triage, conclusion)
+  - SOC L1 Alert Reporting (Intro, Allert funnel, reporting guide, Escalation guide, soc communicatgion, conclusion)
 
 </details>
 
