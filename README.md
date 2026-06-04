@@ -94,6 +94,7 @@
   - SOC Role in Blue Team
   - Humans as Attack Vectors
   - Systems as Attack Vectors
+  - SOC L1 Alert Triage (intro, events and alerts, alert properties, alert prioritization, alert triage, conclusion)
 
 </details>
 
