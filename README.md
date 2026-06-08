@@ -131,6 +131,7 @@
 ## 📊 Progress
 
 - ✅ Pre Security Path
-- ⬜ Cyber Security 101
+- ✅ Cyber Security 101
+- ⬜ SOC 1 
 - ⬜ Splunk Core Certified User
 - ⬜ CompTIA Security+
