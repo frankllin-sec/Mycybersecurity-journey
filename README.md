@@ -101,10 +101,12 @@
 
 ### 🟠 Splunk
 🔗 [View my Splunk Journey](https://github.com/LgzBr/Splunk-Journey)
-
+<summary>
 - **04/21/2026** – Started Intro to Splunk (eLearning) Finished 4/21/2026 - 6:25PM
 - 09/Jun/2026 - - Splunk (Connect with the Lab, Splunk Components, Navigating Splunk, Adding Data, conclusion) | TryhackMe |
 
+
+</summary>
 ---
 
 ## 📁 Projects
