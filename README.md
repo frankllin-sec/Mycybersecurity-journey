@@ -95,6 +95,7 @@
   - SOC Workbooks and Lookups (Intro, Assets & Identities, Network Diagrams, WoorksBooks Theory, Workboos Practice, Conclusion)
   - Introduction to EDR (Intro, What is an EDR?, Beyond the Antivirus, How an EDR works?, EDR Telemtry, Detection and Response Capabilities, Investigate and alert on EDR, Conclusion)
   - Splunk (Connect with the Lab, Splunk Components, Navigating Splunk, Adding Data, conclusion)
+  - Elastic Stack: The Basics (Introduction, Elastic Stack Overview, Lab connection, Discover Tab, KQL Overview, Creating Visualizations, Creating Dashboards, Conclusion)
 
 </details>
 
