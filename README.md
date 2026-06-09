@@ -94,6 +94,7 @@
   - SOC L1 Alert Reporting (Intro, Allert funnel, reporting guide, Escalation guide, soc communicatgion, conclusion)
   - SOC Workbooks and Lookups (Intro, Assets & Identities, Network Diagrams, WoorksBooks Theory, Workboos Practice, Conclusion)
   - Introduction to EDR (Intro, What is an EDR?, Beyond the Antivirus, How an EDR works?, EDR Telemtry, Detection and Response Capabilities, Investigate and alert on EDR, Conclusion)
+  - Splunk (Connect with the Lab, Splunk Components, Navigating Splunk, Adding Data, conclusion)
 
 </details>
 
@@ -102,6 +103,7 @@
 🔗 [View my Splunk Journey](https://github.com/LgzBr/Splunk-Journey)
 
 - **04/21/2026** – Started Intro to Splunk (eLearning) Finished 4/21/2026 - 6:25PM
+- 09/Jun/2026 - - Splunk (Connect with the Lab, Splunk Components, Navigating Splunk, Adding Data, conclusion) | TryhackMe |
 
 ---
 
