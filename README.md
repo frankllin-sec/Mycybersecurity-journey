@@ -109,6 +109,9 @@
 - **04/21/2026** – Started Intro to Splunk (eLearning) Finished 4/21/2026 - 6:25PM
 - 09/Jun/2026 - - Splunk (Connect with the Lab, Splunk Components, Navigating Splunk, Adding Data, conclusion) | TryhackMe |
 
+Labs
+- | Splunk: Exploring SPL | TryHackMe | Jun/10/2026 | [View Lab](https://github.com/frankllin-sec/Labs-experience/blob/main/Splunk-Exploring-SPL/README.md) |
+
 
 </details>
 ---
