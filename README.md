@@ -98,6 +98,7 @@
   - Elastic Stack: The Basics (Introduction, Elastic Stack Overview, Lab connection, Discover Tab, KQL Overview, Creating Visualizations, Creating Dashboards, Conclusion)
   - Introduction to SOAR (Introduction, Traditional SOC and Challenges, Overcoming SOC Challenges with SOAR, Building SOAR Playbooks, Threat Intel Workflow Pratical, Conclusion)
   - Pyramid Of Pain (Introduction, Hash Values (Trivial), IP Address (easy), Domain Names (Simple), Host Artifactgs (annoying), NetWork Artifacts (Annoying), Tools (Challenging), TTPs (tough), Pratical: The Pyramid of Pain, Conclusion)
+  - Cyber Kill Chain (Intro, Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command & control, Actions on Objetives Exfiltration, Practive analysis, conclusion)
   - 
 
 </details>
