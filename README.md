@@ -99,7 +99,7 @@
   - Introduction to SOAR (Introduction, Traditional SOC and Challenges, Overcoming SOC Challenges with SOAR, Building SOAR Playbooks, Threat Intel Workflow Pratical, Conclusion)
   - Pyramid Of Pain (Introduction, Hash Values (Trivial), IP Address (easy), Domain Names (Simple), Host Artifactgs (annoying), NetWork Artifacts (Annoying), Tools (Challenging), TTPs (tough), Pratical: The Pyramid of Pain, Conclusion)
   - Cyber Kill Chain (Intro, Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command & control, Actions on Objetives Exfiltration, Practive analysis, conclusion)
-  - 
+  - Unified Kill Chain (Intro, What is a "Kill Chain", What is "Threat Modelling", Introducing the Unified Kill Chain, Goal: In (Initial Foothold), Goal: Through (Network Propagation), Goal: Out (Action on Objectives), Practical, Conclusion)
 
 </details>
 
