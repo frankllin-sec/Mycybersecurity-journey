@@ -100,6 +100,7 @@
   - Pyramid Of Pain (Introduction, Hash Values (Trivial), IP Address (easy), Domain Names (Simple), Host Artifactgs (annoying), NetWork Artifacts (Annoying), Tools (Challenging), TTPs (tough), Pratical: The Pyramid of Pain, Conclusion)
   - Cyber Kill Chain (Intro, Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command & control, Actions on Objetives Exfiltration, Practive analysis, conclusion)
   - Unified Kill Chain (Intro, What is a "Kill Chain", What is "Threat Modelling", Introducing the Unified Kill Chain, Goal: In (Initial Foothold), Goal: Through (Network Propagation), Goal: Out (Action on Objectives), Practical, Conclusion)
+  - MITRE (Introduction, ATT&CK® Framework, ATT&CK in Operation, ATT&CK for Threat Intelligence, Cyber Analytics Repository (CAR), MITRE D3FEND Framework, Other MITRE Projects, Conclusion) (How MITRE ATT&CK works - https://www.youtube.com/watch?v=WmQPtk3Ybxs )
 
 </details>
 
