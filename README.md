@@ -103,6 +103,7 @@
   - MITRE (Introduction, ATT&CK® Framework, ATT&CK in Operation, ATT&CK for Threat Intelligence, Cyber Analytics Repository (CAR), MITRE D3FEND Framework, Other MITRE Projects, Conclusion) (How MITRE ATT&CK works - https://www.youtube.com/watch?v=WmQPtk3Ybxs )
   - Phishing Analysis Fundamentals (Introduction, The Email Address, Email Delivery, Email Headers, Email Body, Types of Phishing, Conclusion)
   - Phishing Emails in Action (Introduction, Cancel Your Order, Track Your Package, Download Document Here, Your Account Is on Hold, Your Recent Purchase, Scheduled Shipment, Conclusion)
+  - Network Traffic Basics (Introduction, What is the Purpose of Network Traffic Analysis?, What Network Traffic Can We Observe?, Network Traffic Sources and Flows, How Can We Observe Network Traffic?, Conclusion)
 
 </details>
 
