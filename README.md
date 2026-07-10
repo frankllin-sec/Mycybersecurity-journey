@@ -104,6 +104,7 @@
   - Phishing Analysis Fundamentals (Introduction, The Email Address, Email Delivery, Email Headers, Email Body, Types of Phishing, Conclusion)
   - Phishing Emails in Action (Introduction, Cancel Your Order, Track Your Package, Download Document Here, Your Account Is on Hold, Your Recent Purchase, Scheduled Shipment, Conclusion)
   - Network Traffic Basics (Introduction, What is the Purpose of Network Traffic Analysis?, What Network Traffic Can We Observe?, Network Traffic Sources and Flows, How Can We Observe Network Traffic?, Conclusion)
+  - Wireshark: Packet Operations (Introduction, Statistics | Summary, Statistics | Protocol Details, Packet Filtering | Principles, Packet Filtering | Protocol Filters, Advanced Filtering, Conclusion)
 
 </details>
 
