@@ -105,6 +105,7 @@
   - Phishing Emails in Action (Introduction, Cancel Your Order, Track Your Package, Download Document Here, Your Account Is on Hold, Your Recent Purchase, Scheduled Shipment, Conclusion)
   - Network Traffic Basics (Introduction, What is the Purpose of Network Traffic Analysis?, What Network Traffic Can We Observe?, Network Traffic Sources and Flows, How Can We Observe Network Traffic?, Conclusion)
   - Wireshark: Packet Operations (Introduction, Statistics | Summary, Statistics | Protocol Details, Packet Filtering | Principles, Packet Filtering | Protocol Filters, Advanced Filtering, Conclusion)
+  - Wireshark: Traffic Analysis (Introduction, Nmap Scans, ARP Poisoning & Man In The Middle!, Identifying Hosts: DHCP, NetBIOS and Kerberos, Tunneling Traffic: DNS and ICMP, Cleartext Protocol Analysis: FTP, Cleartext Protocol Analysis: HTTP, Encrypted Protocol Analysis: Decrypting HTTPS, Bonus: Hunt Cleartext Credentials!, Bonus: Actionable Results!, Conclusion)
 
 </details>
 
