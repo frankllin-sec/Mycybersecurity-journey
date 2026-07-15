@@ -106,6 +106,7 @@
   - Network Traffic Basics (Introduction, What is the Purpose of Network Traffic Analysis?, What Network Traffic Can We Observe?, Network Traffic Sources and Flows, How Can We Observe Network Traffic?, Conclusion)
   - Wireshark: Packet Operations (Introduction, Statistics | Summary, Statistics | Protocol Details, Packet Filtering | Principles, Packet Filtering | Protocol Filters, Advanced Filtering, Conclusion)
   - Wireshark: Traffic Analysis (Introduction, Nmap Scans, ARP Poisoning & Man In The Middle!, Identifying Hosts: DHCP, NetBIOS and Kerberos, Tunneling Traffic: DNS and ICMP, Cleartext Protocol Analysis: FTP, Cleartext Protocol Analysis: HTTP, Encrypted Protocol Analysis: Decrypting HTTPS, Bonus: Hunt Cleartext Credentials!, Bonus: Actionable Results!, Conclusion)
+  - NetworkMiner (Room Introduction, NetworkMiner in Forensics, What is NetworkMiner?, Tool Overview 1, Tool Overview 2, Version Differences, Exercises, Conclusion)
 
 </details>
 
