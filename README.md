@@ -107,6 +107,7 @@
   - Wireshark: Packet Operations (Introduction, Statistics | Summary, Statistics | Protocol Details, Packet Filtering | Principles, Packet Filtering | Protocol Filters, Advanced Filtering, Conclusion)
   - Wireshark: Traffic Analysis (Introduction, Nmap Scans, ARP Poisoning & Man In The Middle!, Identifying Hosts: DHCP, NetBIOS and Kerberos, Tunneling Traffic: DNS and ICMP, Cleartext Protocol Analysis: FTP, Cleartext Protocol Analysis: HTTP, Encrypted Protocol Analysis: Decrypting HTTPS, Bonus: Hunt Cleartext Credentials!, Bonus: Actionable Results!, Conclusion)
   - NetworkMiner (Room Introduction, NetworkMiner in Forensics, What is NetworkMiner?, Tool Overview 1, Tool Overview 2, Version Differences, Exercises, Conclusion)
+  - Network Security Essentials (Introduction, Lab Connection, A Network - Overview, Network Visibility, Network Perimeter, Network Perimeters: Monitoring and Protecting, Perimeter Logs: Investigating the Breach, Conclusion)
 
 </details>
 
