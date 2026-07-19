@@ -109,6 +109,7 @@
   - NetworkMiner (Room Introduction, NetworkMiner in Forensics, What is NetworkMiner?, Tool Overview 1, Tool Overview 2, Version Differences, Exercises, Conclusion)
   - Network Security Essentials (Introduction, Lab Connection, A Network - Overview, Network Visibility, Network Perimeter, Network Perimeters: Monitoring and Protecting, Perimeter Logs: Investigating the Breach, Conclusion)
   - Network Discovery Detection (Introduction, Network Discovery, External vs Internal Scanning, Horizontal vs Vertical Scanning, The Mechanics of Scanning, Conclusion)
+  - Data Exfiltration Detection (Introduction, Lab Connection, Data Exfil: Overview, techniques, and Indicators, Detection: Data Exfil through DNS Tunneling, Detection: Data Exfil through FTP, Detection: Data Exfil via HTTP, Detection: Data Exfiltration via ICMP, Conclusion)
   
 
 </details>
