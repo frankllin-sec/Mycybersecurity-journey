@@ -110,6 +110,7 @@
   - Network Security Essentials (Introduction, Lab Connection, A Network - Overview, Network Visibility, Network Perimeter, Network Perimeters: Monitoring and Protecting, Perimeter Logs: Investigating the Breach, Conclusion)
   - Network Discovery Detection (Introduction, Network Discovery, External vs Internal Scanning, Horizontal vs Vertical Scanning, The Mechanics of Scanning, Conclusion)
   - Data Exfiltration Detection (Introduction, Lab Connection, Data Exfil: Overview, techniques, and Indicators, Detection: Data Exfil through DNS Tunneling, Detection: Data Exfil through FTP, Detection: Data Exfil via HTTP, Detection: Data Exfiltration via ICMP, Conclusion)
+  - Man-in-the-Middle Detection (Introduction, Lab Connection, MITM Attacks - An Overview, Detecting ARP Spoofing, Unmasking DNS Spoofing, Spotting SSL Stripping in Action, Conclusion & Room Wrap-up)
   
 
 </details>
