@@ -100,7 +100,7 @@
   - Pyramid Of Pain (Introduction, Hash Values (Trivial), IP Address (easy), Domain Names (Simple), Host Artifactgs (annoying), NetWork Artifacts (Annoying), Tools (Challenging), TTPs (tough), Pratical: The Pyramid of Pain, Conclusion)
   - Cyber Kill Chain (Intro, Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command & control, Actions on Objetives Exfiltration, Practive analysis, conclusion)
   - Unified Kill Chain (Intro, What is a "Kill Chain", What is "Threat Modelling", Introducing the Unified Kill Chain, Goal: In (Initial Foothold), Goal: Through (Network Propagation), Goal: Out (Action on Objectives), Practical, Conclusion)
-  - MITRE (Introduction, ATT&CK® Framework, ATT&CK in Operation, ATT&CK for Threat Intelligence, Cyber Analytics Repository (CAR), MITRE D3FEND Framework, Other MITRE Projects, Conclusion) (How MITRE ATT&CK works - https://www.youtube.com/watch?v=WmQPtk3Ybxs )
+  - MITRE (Introduction, ATT&CK® Framework, ATT&CK in Operation, ATT&CK for Threat Intelligence, Cyber Analytics Repository (CAR), MITRE D3FEND Framework, Other MITRE Projects, Conclusion)
   - Phishing Analysis Fundamentals (Introduction, The Email Address, Email Delivery, Email Headers, Email Body, Types of Phishing, Conclusion)
   - Phishing Emails in Action (Introduction, Cancel Your Order, Track Your Package, Download Document Here, Your Account Is on Hold, Your Recent Purchase, Scheduled Shipment, Conclusion)
   - Network Traffic Basics (Introduction, What is the Purpose of Network Traffic Analysis?, What Network Traffic Can We Observe?, Network Traffic Sources and Flows, How Can We Observe Network Traffic?, Conclusion)
@@ -111,6 +111,7 @@
   - Network Discovery Detection (Introduction, Network Discovery, External vs Internal Scanning, Horizontal vs Vertical Scanning, The Mechanics of Scanning, Conclusion)
   - Data Exfiltration Detection (Introduction, Lab Connection, Data Exfil: Overview, techniques, and Indicators, Detection: Data Exfil through DNS Tunneling, Detection: Data Exfil through FTP, Detection: Data Exfil via HTTP, Detection: Data Exfiltration via ICMP, Conclusion)
   - Man-in-the-Middle Detection (Introduction, Lab Connection, MITM Attacks - An Overview, Detecting ARP Spoofing, Unmasking DNS Spoofing, Spotting SSL Stripping in Action, Conclusion & Room Wrap-up)
+  - Windows Logging for SOC (Introduction, What Is Logged, Security Log: Authentication, Security Log: User Management, Sysmon: Process Monitoring, Sysmon: Files and Network, PowerShell: Logging Commands, Conclusion)
   
 
 </details>
