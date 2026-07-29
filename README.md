@@ -117,6 +117,8 @@
   <summary>Windows Security Monitoring</summary>
   - Windows Logging for SOC (Introduction, What Is Logged, Security Log: Authentication, Security Log: User Management, Sysmon: Process Monitoring, Sysmon: Files and Network, PowerShell: Logging Commands, Conclusion)
   - Windows Threat Detection 1 (Introduction, Intro to Initial Access, Initial Access via RDP, Initial Access via Phishing, Continuing Phishing Topic, Initial Access via USB, Conclusion)
+  - Windows Threat Detection 2 (Introduction, Discovery Overview, Detecting Discovery, Collection Overview, Detecting Collection, Ingress Tool Transfer, Conclusion)
+  
   
     
 
