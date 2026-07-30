@@ -150,6 +150,8 @@ Labs
 
 </details>
 ---
+**7/30/2026** – Started Studyng Security + - Professor Messer
+
 
 ## 📁 Projects
 
