@@ -120,9 +120,17 @@
   - **Windows Threat Detection 2** (Introduction, Discovery Overview, Detecting Discovery, Collection Overview, Detecting Collection, Ingress Tool Transfer, Conclusion)
   - **Windows Threat Detection 3** (Introduction, Command and Control, Persistence Overview, Persistence: Tasks and Services, Persistence: Run Keys and Startup, Impact and Threat Detection Recap, Conclusion)
   - **Windows Logging for SOC** (Introduction, What Is Logged, Security Log: Authentication, Security Log: User Management, Sysmon: Process Monitoring, Sysmon: Files and Network, PowerShell: Logging Commands, Conclusion)
-
 </details>
   
+
+<details>
+  <summary>Web Security Monitoring</summary>
+
+  - **Web Security Essentials** (Introduction, Why Web?, Web Infrastructure, Protecting the Web, Defense Systems, Practice Scenario, Conclusion)
+
+</details>
+
+
 
 </details>
 
