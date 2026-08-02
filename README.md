@@ -127,6 +127,7 @@
   <summary>Web Security Monitoring</summary>
 
   - **Web Security Essentials** (Introduction, Why Web?, Web Infrastructure, Protecting the Web, Defense Systems, Practice Scenario, Conclusion)
+  - **Detecting Web Attacks** (Introduction, Client-Side Attacks, Server-Side Attacks, Log-Based Detection, Network-Based Detection, Web Application Firewall, Conclusion)
 
 </details>
 
