@@ -132,6 +132,13 @@
 
 </details>
 
+<details>
+  <summary>Malware Classification</summary>
+
+  - **Web Security Essentials** (Introduction, Why Web?, Web Infrastructure, Protecting the Web, Defense Systems, Practice Scenario, Conclusion)
+
+</details>
+
 
 
 </details>
