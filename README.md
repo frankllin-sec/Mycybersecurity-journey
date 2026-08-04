@@ -133,9 +133,9 @@
 </details>
 
 <details>
-  <summary>Malware Classification</summary>
+  <summary> Malware Concepts for SOC</summary>
 
-  - **Web Security Essentials** (Introduction, Why Web?, Web Infrastructure, Protecting the Web, Defense Systems, Practice Scenario, Conclusion)
+  - **Malware Classification** (Introduction, Malware Types, Real-World Malware Examples, Binary vs Script Malware, Practical, Conclusion)
 
 </details>
 
