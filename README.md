@@ -136,6 +136,7 @@
   <summary> Malware Concepts for SOC</summary>
 
   - **Malware Classification** (Introduction, Malware Types, Real-World Malware Examples, Binary vs Script Malware, Practical, Conclusion)
+  - **Intro to Malware Analysis** (Introduction, Malware Analysis, Techniques of malware analysis, Basic Static Analysis, The PE file Header, Basic Dynamic Analysis, Anti-analysis techniques, Conclusion)
 
 </details>
 
