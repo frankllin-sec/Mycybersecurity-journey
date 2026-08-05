@@ -137,6 +137,8 @@
 
   - **Malware Classification** (Introduction, Malware Types, Real-World Malware Examples, Binary vs Script Malware, Practical, Conclusion)
   - **Intro to Malware Analysis** (Introduction, Malware Analysis, Techniques of malware analysis, Basic Static Analysis, The PE file Header, Basic Dynamic Analysis, Anti-analysis techniques, Conclusion)
+  - **Living Off the Land Attacks** (Introduction, Common LoL Tools and Techniques, Real-World Examples, Detecting LOL Activity, Practical, Wrapping Up)
+  - 
 
 </details>
 
