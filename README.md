@@ -142,6 +142,16 @@
 
 </details>
 
+<details>
+  <summary> Threat Analysis Tools</summary>
+
+  - **Intro to Cyber Threat Intel** (Introduction, Cyber Threat Intelligence, CTI Lifecycle, CTI Standards&Frameworks, Pratical Analysis)
+
+  - 
+
+</details>
+
+
 
 
 </details>
