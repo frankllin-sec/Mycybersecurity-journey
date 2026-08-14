@@ -146,6 +146,8 @@
   <summary> Threat Analysis Tools</summary>
 
   - **Intro to Cyber Threat Intel** (Introduction, Cyber Threat Intelligence, CTI Lifecycle, CTI Standards&Frameworks, Pratical Analysis)
+  - **File and Hash Threat Intel** (Introduction, Filenames and Paths, File Hash Lookup, Sandbox Analysis, Threat Intelligence Challenge, Conclusion)
+  - **IP and Domain Threat Intel** (Introduction, Domain Enrichment, Ip Enrichment, Service Exposure, Vpn Detection, Challenge, Conclusion)
 
   - 
 
