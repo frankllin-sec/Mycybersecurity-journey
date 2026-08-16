@@ -161,9 +161,6 @@
 
 
 
-</details>
-
-
 ### 🟠 Splunk
 <details>
 
