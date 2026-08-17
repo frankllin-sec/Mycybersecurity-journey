@@ -159,7 +159,7 @@
 
 </details>
 
-
+</details>
 
 ### 🟠 Splunk
 <details>
@@ -209,3 +209,4 @@ Labs
 - ⬜ SOC 1 
 - ⬜ Splunk Core Certified User
 - ⬜ CompTIA Security+
+
