@@ -87,7 +87,7 @@
 
 
 <details>
-<summary> **05/31/2026** SOC Level 1 </summary>
+<summary> **05/31/2026** SOC Level 1 </summary></details>
   
   - Blue Team Introduction - (Jr Sec analyst intro, Soc Role in Blue Team, Humans as Attack Vectors, Systems as Attack Vectors)
   - SOC L1 Alert Triage (intro, events and alerts, alert properties, alert prioritization, alert triage, conclusion)
@@ -110,15 +110,17 @@
   - Wireshark: Traffic Analysis (Introduction, Nmap Scans, ARP Poisoning & Man In The Middle!, Identifying Hosts: DHCP, NetBIOS and Kerberos, Tunneling Traffic: DNS and ICMP, Cleartext Protocol Analysis: FTP, Cleartext Protocol Analysis: HTTP, Encrypted Protocol Analysis: Decrypting HTTPS, Bonus: Hunt Cleartext Credentials!, Bonus: Actionable Results!, Conclusion)
   - NetworkMiner (Room Introduction, NetworkMiner in Forensics, What is NetworkMiner?, Tool Overview 1, Tool Overview 2, Version Differences, Exercises, Conclusion)
 
-    <details>
-  <summary>Network Security Monitoring</summary>
-  - Network Security Essentials (Introduction, Lab Connection, A Network - Overview, Network Visibility, Network Perimeter, Network Perimeters: Monitoring and Protecting, Perimeter Logs: Investigating the Breach, Conclusion)
-  - Network Discovery Detection (Introduction, Network Discovery, External vs Internal Scanning, Horizontal vs Vertical Scanning, The Mechanics of Scanning, Conclusion)
-  - Data Exfiltration Detection (Introduction, Lab Connection, Data Exfil: Overview, techniques, and Indicators, Detection: Data Exfil through DNS Tunneling, Detection: Data Exfil through FTP, Detection: Data Exfil via HTTP, Detection: Data Exfiltration via ICMP, Conclusion)
-  - Man-in-the-Middle Detection (Introduction, Lab Connection, MITM Attacks - An Overview, Detecting ARP Spoofing, Unmasking DNS Spoofing, Spotting SSL Stripping in Action, Conclusion & Room Wrap-up)
-  - IDS Fundamentals (What Is an IDS, Types of IDS, IDS Example: Snort, Snort Usage, Practical Lab)
-  - Snort (Introduction, Interactive Material and VM, Introduction to IDS/IPS, First Interaction with Snort, Operation Mode 1: Sniffer Mode, Operation Mode 2: Packet Logger Mode, Operation Mode 3: IDS/IPS, Operation Mode 4: PCAP Investigation, Snort Rule Structure, Snort2 Operation Logic: Points to Remember, Conclusion)
-  </details>
+<details>
+  <summary> Network Security Monitoring </summary>
+  
+  - **Network Security Essentials** (Introduction, Lab Connection, A Network - Overview, Network Visibility, Network Perimeter, Network Perimeters: Monitoring and Protecting, Perimeter Logs: Investigating the Breach, Conclusion)
+  - **Network Discovery Detection**  (Introduction, Network Discovery, External vs Internal Scanning, Horizontal vs Vertical Scanning, The Mechanics of Scanning, Conclusion)
+  - **Data Exfiltration Detection**  (Introduction, Lab Connection, Data Exfil: Overview, techniques, and Indicators, Detection: Data Exfil through DNS Tunneling, Detection: Data Exfil through FTP, Detection: Data Exfil via HTTP, Detection: Data Exfiltration via ICMP, Conclusion)
+  - **Man-in-the-Middle Detection**  (Introduction, Lab Connection, MITM Attacks - An Overview, Detecting ARP Spoofing, Unmasking DNS Spoofing, Spotting SSL Stripping in Action, Conclusion & Room Wrap-up)
+  - **IDS Fundamentals**  (What Is an IDS, Types of IDS, IDS Example: Snort, Snort Usage, Practical Lab)
+  - **Snort**  (Introduction, Interactive Material and VM, Introduction to IDS/IPS, First Interaction with Snort, Operation Mode 1: Sniffer Mode, Operation Mode 2: Packet Logger Mode, Operation Mode 3: IDS/IPS, Operation Mode 4: PCAP Investigation, Snort Rule Structure, Snort2 Operation Logic: Points to Remember, Conclusion)
+  
+ </details>
 
 <details>
   <summary>Windows Security Monitoring</summary>
@@ -166,7 +168,6 @@
 
 </details>
 
-</details>
 
 ### 🟠 Splunk
 <details>
