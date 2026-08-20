@@ -85,9 +85,8 @@
 </details>
 
 
-
 <details>
-<summary> **05/31/2026** SOC Level 1 </summary></details>
+<summary> **05/31/2026** SOC Level 1 </summary> 
   
   - Blue Team Introduction - (Jr Sec analyst intro, Soc Role in Blue Team, Humans as Attack Vectors, Systems as Attack Vectors)
   - SOC L1 Alert Triage (intro, events and alerts, alert properties, alert prioritization, alert triage, conclusion)
@@ -167,6 +166,8 @@
   - **Log Analysis with SIEM** ((Introduction, Benefits of Siem For Analysts, Log Source Overview, Windows Logs, Linux Logs, Web application logs, conclusion))
 
 </details>
+
+</details> 
 
 
 ### 🟠 Splunk
