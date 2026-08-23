@@ -157,13 +157,19 @@
   - **File and Hash Threat Intel** (Introduction, Filenames and Paths, File Hash Lookup, Sandbox Analysis, Threat Intelligence Challenge, Conclusion)
   - **IP and Domain Threat Intel** (Introduction, Domain Enrichment, Ip Enrichment, Service Exposure, Vpn Detection, Challenge, Conclusion)
 
-
 </details>
 
 <details>
   <summary> SIEM Triage for SOC </summary>
 
   - **Log Analysis with SIEM** ((Introduction, Benefits of Siem For Analysts, Log Source Overview, Windows Logs, Linux Logs, Web application logs, conclusion))
+
+</details>
+
+  <summary> Linux Security Monitoring </summary>
+
+  - **Linux Logging for SOC** (Introduction, Working With Text Logs, Authentication Logs, Common Linux Logs, Runtime Monitoring, Using Auditd, Conclusion)
+  - **Linux Threat Detection 1** (Introduction, Initial Access via SSH, Detecting SSH Attacks, Initial Access via Services, Detecting Service Breach, Advanced Initial Access, Conclusion)
 
 </details>
 
