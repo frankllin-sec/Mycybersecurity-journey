@@ -172,6 +172,7 @@
 
   - **Linux Logging for SOC** (Introduction, Working With Text Logs, Authentication Logs, Common Linux Logs, Runtime Monitoring, Using Auditd, Conclusion)
   - **Linux Threat Detection 1** (Introduction, Initial Access via SSH, Detecting SSH Attacks, Initial Access via Services, Detecting Service Breach, Advanced Initial Access, Conclusion)
+  - **Linux Threat Detection 2** (Introduction, Discovery Overview, Detecting Discovery, Motivation for Attacks, Dota3: First Actions, Dota3: Miner Setup, Conclusion)
 
 </details>
 
