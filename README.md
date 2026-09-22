@@ -8,7 +8,7 @@
 
 
 <details>
-<summary> **04/01/2026**  Introduction to Cyber Security</summary>
+<summary> **04/01/2026** - ✅**04/26/2026**  Introduction to Cyber Security</summary>
 
 - Network Fundamentals
 - How The Web Works
@@ -38,7 +38,7 @@
 </details>
 
 <details>
-<summary> **04/26/2026**  Cyber Security 101 </summary>
+<summary> **04/26/2026** - ✅**06/02/2026**  Cyber Security 101 </summary>
   
   - Search Skills
   - Linux Fundamentals Part 1/2/3
@@ -86,7 +86,7 @@
 
 
 <details>
-<summary> **05/31/2026** SOC Level 1 </summary> 
+<summary> **05/31/2026** - ✅ ****09/22/2026**  SOC Level 1 </summary> 
   
   - Blue Team Introduction - (Jr Sec analyst intro, Soc Role in Blue Team, Humans as Attack Vectors, Systems as Attack Vectors)
   - SOC L1 Alert Triage (intro, events and alerts, alert properties, alert prioritization, alert triage, conclusion)
